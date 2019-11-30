@@ -1,13 +1,3 @@
 This is my first program
 
-<<<<<<< HEAD
-this is my second file
-
-thsi is my fisrst program
-
-=======
->>>>>>> 1f1c620... Newfile
-
-This is my second line of code :bob
-This is my second line of code:Alice
 
